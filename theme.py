@@ -45,7 +45,7 @@ def set_theme(theme_name):
     if theme_name in themes:
         current_theme = themes[theme_name]
     else:
-        print(f"{Colors.red}Theme '{theme_name}' not found. Using default theme.{Colors.reset}")
+        print(f"{Colors.blue}Theme '{theme_name}' not found. Using default theme.{Colors.reset}")
         current_theme = themes["default"]
 
 def get_current_theme():
