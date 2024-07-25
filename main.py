@@ -50,75 +50,29 @@ Dev : KellS
 Version : 2.1
 ─────────────────────
 
+   [Menu n°1]
+   [01] -> Tool Info                      [11] -> Dox Create                     [21] -> Password Encrypted
+   [02] -> Tool Website                   [12] -> Dox Tracker (Osint)            [22] -> Password Decrypted
+   [03] -> Obfuscator Tool (Paid)         [13] -> Username Tracker (Osint)       [23] -> Get Your Ip
+   [04] -> Virus Build (Stealer, Malware) [14] -> Email Tracker (Osint)          [24] -> Discord Token Info
+   [05] -> Sql Vulnerability              [15] -> Email Info (Lookup)            [25] -> Discord Token Nuker
+   [06] -> Phishing Attack                [16] -> Number Info (Lookup)           [26] -> Discord Token Joiner
+   [07] -> Website Info Scanner           [17] -> Ip Info (Lookup)               [27] -> Discord Token Leaver
+   [08] -> Website Url Scanner            [18] -> Ip Port Scanner                [28] -> Discord Token Login
+   [09] -> Dark Web Links                 [19] -> Ip Pinger                      [29] -> Discord Token To Id And Brute
+   [10] -> Search In DataBase             [20] -> Ip Generator                   [30] -> Next Page >>
 
-option_01 = "Tool-Info"
-option_02 = "Tool-Website"
-option_03 = "Obfuscator-Tool-(Paid)"
-option_04 = "Virus-Build-(Stealer,-Malware)"
-option_05 = "Sql-Vulnerability"
-option_06 = "Phishing-Attack"
-option_07 = "Website-Info-Scanner"
-option_08 = "Website-Url-Scanner"
-option_09 = "Dark-Web-Links"
-option_10 = "Search-In-DataBase"
-option_11 = "Dox-Create"
-option_12 = "Dox-Tracker-(Osint)"
-option_13 = "Username-Tracker-(Osint)"
-option_14 = "Email-Tracker-(Osint)"
-option_15 = "Email-Info-(Lookup)"
-option_16 = "Number-Info-(Lookup)"
-option_17 = "Ip-Info-(Lookup)"
-option_18 = "Ip-Port-Scanner"
-option_19 = "Ip-Pinger"
-option_20 = "Ip-Generator"
-option_21 = "Password-Encrypted"
-option_22 = "Password-Decrypted"
-option_23 = "Get-Your-Ip"
-option_24 = "Discord-Token-Info"
-option_25 = "Discord-Token-Nuker"
-option_26 = "Discord-Token-Joiner"
-option_27 = "Discord-Token-Leaver"
-option_28 = "Discord-Token-Login"
-option_29 = "Discord-Token-To-Id-And-Brute"
-option_32 = "Discord-Token-Server-Raid"
-option_33 = "Discord-Token-Spammer"
-option_34 = "Discord-Token-Delete-Friends"
-option_35 = "Discord-Token-Block-Friends"
-option_36 = "Discord-Token-Mass-Dm"
-option_37 = "Discord-Token-Delete-Dm"
-option_38 = "Discord-Token-Status-Changer"
-option_39 = "Discord-Token-Language-Changer"
-option_40 = "Discord-Token-House-Changer"
-option_41 = "Discord-Token-Theme-Changer"
-option_42 = "Discord-Token-Generator"
-option_43 = "Discord-Bot-Server-Nuker"
-option_44 = "Discord-Bot-Invite-To-Id"
-option_45 = "Discord-Server-Info"
-option_46 = "Discord-Nitro-Generator"
-option_47 = "Discord-Webhook-Info"
-option_48 = "Discord-Webhook-Delete"
-option_49 = "Discord-Webhook-Spammer"
-option_50 = "Discord-Webhook-Generator"
-option_51 = "Roblox-Cookie-Login"
-option_52 = "Roblox-Cookie-Info"
-option_53 = "Roblox-User-Info"
-option_54 = "Roblox-Id-Info"
-option_55 = "Soon"
-option_56 = "Soon"
-option_57 = "Soon"
-option_58 = "Soon"
-option_59 = "Soon"
-option_60 = "Soon"
-option_61 = "Soon" 
-option_62 = "Soon"
-option_63 = "Soon"
-option_64 = "Soon"
-option_65 = "Soon"
-option_66 = "Soon"
-option_67 = "Soon"
-option_68 = "Soon"
-option_69 = "Soon"                                        
-
+   [Menu n°2]
+   [31] -> << Previous Page               [41] -> Discord Token Theme Changer    [51] -> Roblox Cookie Login
+   [32] -> Discord Token Server Raid      [42] -> Discord Token Generator        [52] -> Roblox Cookie Info
+   [33] -> Discord Token Spammer          [43] -> Discord Bot Server Nuker       [53] -> Roblox User Info
+   [34] -> Discord Token Delete Friends   [44] -> Discord Bot Invite To Id       [54] -> Roblox Id Info
+   [35] -> Discord Token Block Friends    [45] -> Discord Server Info            [55] -> Soon
+   [36] -> Discord Token Mass Dm          [46] -> Discord Nitro Generator        [56] -> Soon
+   [37] -> Discord Token Delete Dm        [47] -> Discord Webhook Info           [57] -> Soon
+   [38] -> Discord Token Status Changer   [48] -> Discord Webhook Delete         [58] -> Soon
+   [39] -> Discord Token Language Changer [49] -> Discord Webhook Spammer        [59] -> Soon
+   [40] -> Discord Token House Changer    [50] -> Discord Webhook Generator      [60] -> Next Page >>                                        
 
 
 {current_theme["reset"]}"""
@@ -203,7 +157,7 @@ def main():
 
         prompt = f"""
 
-{current_theme["primary"]}╭─── {current_theme["secondary"]}atom@user/Multi tools{current_theme["reset"]}
+{current_theme["primary"]}╭─── {current_theme["secondary"]}darkness@user/Multi tools{current_theme["reset"]}
 
 {current_theme["primary"]}│
 
