@@ -158,11 +158,7 @@ def main():
         prompt = f"""
 
 {current_theme["primary"]}╭─── {current_theme["secondary"]}darkness@user/Multi tools{current_theme["reset"]}
-
 {current_theme["primary"]}│
-
-{current_theme["primary"]}│
-
 {current_theme["primary"]}╰─$ {current_theme["reset"]} """
 
         
