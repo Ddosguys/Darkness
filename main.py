@@ -51,20 +51,20 @@ Version : 2.1
 ─────────────────────
 
    [Menu n°1]
-   [01] -> Tool Info                      [11] -> Dox Create                     [21] -> Password Encrypted
-   [02] -> Tool Website                   [12] -> Dox Tracker (Osint)            [22] -> Password Decrypted
-   [03] -> Obfuscator Tool (Paid)         [13] -> Username Tracker (Osint)       [23] -> Get Your Ip
-   [04] -> Virus Build (Stealer, Malware) [14] -> Email Tracker (Osint)          [24] -> Discord Token Info
-   [05] -> Sql Vulnerability              [15] -> Email Info (Lookup)            [25] -> Discord Token Nuker
-   [06] -> Phishing Attack                [16] -> Number Info (Lookup)           [26] -> Discord Token Joiner
-   [07] -> Website Info Scanner           [17] -> Ip Info (Lookup)               [27] -> Discord Token Leaver
-   [08] -> Website Url Scanner            [18] -> Ip Port Scanner                [28] -> Discord Token Login
-   [09] -> Dox In Discord                 [19] -> Ip Pinger                      [29] -> Discord Token To Id And Brute
-   [10] -> Search In DataBase             [20] -> Ip Generator                   [30] -> Next Page >>                                        
+    [1] Tool Info                      [11] Dox Create                     [21] Password Encrypted
+    [2] Tool Website                   [12] Dox Searcher                   [22] Password Decrypted
+    [3] More Tool                      [13] Username Osint                 [23] Your IP
+    [4] Backdoor Create                [14] Email Searcher                 [24] Token Information
+    [5] Sql Injection.                 [15] Email Osint                    [25] Token Nuker
+    [6] Phishing URL                   [16] Number Information             [26] Token Joiner
+    [7]  Website Info Scanner          [17] Ip Info (Lookup)               [27] Token Leaver
+    [8] Website Link Scanner           [18] Ip Port Scanner                [28] Wehbook Spammer
+    [9] Dox In Discord                 [19] DDoS IP                        [29] Token to Id
+   [10] Search In DataBase             [20] Generate IP                    [30] More Page >                                        
 
 {current_theme["reset"]}"""
 
-    animated_text(art, delay=0.01)
+    animated_text(art, delay=0.00)
 
 
 
