@@ -59,21 +59,8 @@ Version : 2.1
    [06] -> Phishing Attack                [16] -> Number Info (Lookup)           [26] -> Discord Token Joiner
    [07] -> Website Info Scanner           [17] -> Ip Info (Lookup)               [27] -> Discord Token Leaver
    [08] -> Website Url Scanner            [18] -> Ip Port Scanner                [28] -> Discord Token Login
-   [09] -> Dark Web Links                 [19] -> Ip Pinger                      [29] -> Discord Token To Id And Brute
-   [10] -> Search In DataBase             [20] -> Ip Generator                   [30] -> Next Page >>
-
-   [Menu n°2]
-   [31] -> << Previous Page               [41] -> Discord Token Theme Changer    [51] -> Roblox Cookie Login
-   [32] -> Discord Token Server Raid      [42] -> Discord Token Generator        [52] -> Roblox Cookie Info
-   [33] -> Discord Token Spammer          [43] -> Discord Bot Server Nuker       [53] -> Roblox User Info
-   [34] -> Discord Token Delete Friends   [44] -> Discord Bot Invite To Id       [54] -> Roblox Id Info
-   [35] -> Discord Token Block Friends    [45] -> Discord Server Info            [55] -> Soon
-   [36] -> Discord Token Mass Dm          [46] -> Discord Nitro Generator        [56] -> Soon
-   [37] -> Discord Token Delete Dm        [47] -> Discord Webhook Info           [57] -> Soon
-   [38] -> Discord Token Status Changer   [48] -> Discord Webhook Delete         [58] -> Soon
-   [39] -> Discord Token Language Changer [49] -> Discord Webhook Spammer        [59] -> Soon
-   [40] -> Discord Token House Changer    [50] -> Discord Webhook Generator      [60] -> Next Page >>                                        
-
+   [09] -> Dox In Discord                 [19] -> Ip Pinger                      [29] -> Discord Token To Id And Brute
+   [10] -> Search In DataBase             [20] -> Ip Generator                   [30] -> Next Page >>                                        
 
 {current_theme["reset"]}"""
 
@@ -135,7 +122,7 @@ def main():
 
 
 
-    animated_text(warning_message, delay=0.03)
+    animated_text(warning_message, delay=0.01)
 
 
 
