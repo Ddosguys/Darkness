@@ -1,7 +1,7 @@
 import sys
 import os
 
-print("\nInstalling the python modules required for the RedTiger Tool:")
+print("\nPlease wait while the installation start")
 
 if sys.platform.startswith("win"):
     "WINDOWS"
