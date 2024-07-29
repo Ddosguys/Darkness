@@ -6,7 +6,7 @@
 
 Darkness-tools est une suite d'outils puissants conçus à des fins éducatives et d'apprentissage de la cybersécurité. Ce projet vise à fournir des ressources utiles pour ceux qui souhaitent approfondir leurs connaissances en sécurité informatique.
 
-## Installation
+## Installation (linux)
 
 Pour installer Darkness-tools, suivez les étapes ci-dessous :
 
