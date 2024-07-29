@@ -4,7 +4,7 @@ cd /d %~dp0
 :: Display a welcome message
 cls
 echo =====================================================
-echo             Python Environment Setup Tool
+echo             Darkness-tool 
 echo =====================================================
 echo.
 echo Press Enter to continue
@@ -56,7 +56,7 @@ echo =====================================================
 echo                   Starting Builder
 echo =====================================================
 echo.
-python redtiger.py
+python main.py
 if %errorlevel% neq 0 goto ERROR
 
 echo =====================================================
