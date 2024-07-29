@@ -14,16 +14,18 @@ Pour installer Darkness-tools, suivez les étapes ci-dessous :
 git clone https://github.com/Ddosguys/Darkness-tools
 cd Darkness-tools
 python3 Setup.py
-# Utilisation
+```
+
+## Utilisation
 Une fois l'installation terminée, vous pouvez commencer à utiliser Darkness-tools pour vos projets éducatifs et de recherche. Assurez-vous de bien comprendre les implications légales et éthiques de l'utilisation de ces outils.
 
-# Contribution
+## Contribution
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez soumettre une pull request ou ouvrir une issue pour discuter des modifications que vous proposez.
 
-# Avertissement
+## Avertissement
 Attention: Cet outil est destiné à des fins éducatives uniquement. Toute utilisation abusive de Darkness-tools pour des activités illégales est strictement interdite. Utilisez cet outil de manière responsable et éthique.
 
-# Auteur
+## Auteur
 Darkness-tools a été développé par KellS.
 
 Made By KellS For Educational Purpose
