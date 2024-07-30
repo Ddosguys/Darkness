@@ -96,25 +96,6 @@ def main():
 
 {current_theme["primary"]}
 
-      ____               
-
-     /___/\_     WARNING: The use of these tools can have significant
-
-    _\   \/_/\__  risks and consequences. By using this software, you
-
-  __\       \/_/\  agree that we are not responsible for any damage or
-
-  \   __    __ \ \  issues that may arise from the use of these tools.
-
- __\  \_\   \_\ \ \   __  Please use responsibly and at your own risk.
-
-/_/\\   __   __  \ \_/_/\          
-
-\_\/_\__\/\__\/\__\/_\_\/          
-
-   \_\/_/\       /_\_\/
-
-      \_\/       \_\/
 
 {current_theme["reset"]}
 
