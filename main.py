@@ -122,7 +122,7 @@ def main():
 
 
 
-    animated_text(warning_message, delay=0.01)
+    animated_text(warning_message, delay=0.00)
 
 
 
